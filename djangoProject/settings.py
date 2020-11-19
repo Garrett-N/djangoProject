@@ -31,7 +31,9 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'k9gbnApp',
+    'hamApp',
+    'projectApp',
+    'blogApp',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

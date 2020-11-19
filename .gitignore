@@ -2,5 +2,5 @@
 venv/
 djangoProject/__pycache__/
 djangoProject/secret.py
-k9gbnApp/__pycache__/
-k9gbnApp/migrations
+hamApp/__pycache__/
+hamApp/migrations
